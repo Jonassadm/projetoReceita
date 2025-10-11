@@ -1,6 +1,4 @@
 body {
-    margin: 0;
-    padding: 0;
     background-image: url(assets/bg-image.jpg);
     background-size: cover;
     
@@ -18,4 +16,13 @@ img {
     margin: 48px auto;
     box-sizing: border-box;
     
+}
+
+footer {
+    text-align: center;
+    margin: 28px 0px 48px 0px;
+}
+
+.iconcoracao {
+    vertical-align: middle;
 }
