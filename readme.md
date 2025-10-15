@@ -5,3 +5,7 @@
 #div
 - pra centralizar a div no centro (do body) usado margin AUTO - para isso o elemento precisa de uma largura width.
 e lembre de tirar a soma dos paddings. tira o padrão da caixa.
+
+
+#onde parei:
+continuar nas margins, ver box-sizing
