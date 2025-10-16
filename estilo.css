@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Alice", serif;
+    
 }
 
 body {
@@ -13,6 +17,10 @@ img {
     border-radius: 24px;
 }
 
+#about {
+    padding: 4px 0 24px 24px;
+}
+
 #page {
     background-color: #F0E8C2;
     width: 800px;
@@ -21,6 +29,10 @@ img {
     margin: auto;
 }
 
-ul {
-    margin-left: 20px;
+#ingredients {
+    padding: 24px 0 0 24px;
+
+    & ul {
+        padding: 4px 0 0 24px;
+    }
 }
